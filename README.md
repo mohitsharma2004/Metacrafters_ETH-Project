@@ -4,7 +4,6 @@ Token contract in solidity. This Solidity program is a simple program that demon
 ## Description
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two functions "mint" and "burn".
-## Getting Started
 
 ## Authors
 
