@@ -8,10 +8,4 @@ This program is a simple contract written in Solidity, a programming language us
 
 ## Authors
 
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
+Mohit Sharma
